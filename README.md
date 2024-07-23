@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/subashkarki68"><img src="./devcard.png" width="356" alt="Subash's Dev Card"/></a>
+<a href="https://app.daily.dev/subashkarki68"><img src="./devcard.png" width="652" alt="Subash's Dev Card"/></a>
 <!--
 **subashkarki68/subashkarki68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
