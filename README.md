@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchi Raj Karki</h1>
 <h3 align="center">Passionate about creating user-friendly and responsive web applications. Proficient in HTML, CSS, JavaScript, and TypeScript. Experienced in working with both front-end and back-end frameworks such as React, Next.js, and Express.js.</h3>
-<a href="https://app.daily.dev/subashkarki68"><img src="./devcard.png" width="356" alt="Subash's Dev Card"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subashkarki68&label=Fans&color=22aa5d&style=flat" alt="subashkarki68" /> </p>
+<a href="https://app.daily.dev/ruchirajkarki"><img src="https://api.daily.dev/devcards/v2/TyaO5gVnqY1MqSWwKSCqm.png?type=default&r=oed" width="356" alt="Ruchi Raj Karki's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subashkarki68" alt="subashkarki68" /></a> </p>
 
